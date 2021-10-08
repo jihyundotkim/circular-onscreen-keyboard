@@ -1,0 +1,9 @@
+SHIFT 클릭하고 영문자 클릭시 대문자
+SHIFT 더블클릭시 caps lock, 다시 클릭시 caps lock 해제
+특수문자 및 한글로 이동시 SWITCH키 사용
+화상키보드상에 작은 글자로 되어 있는 추가 글자 사용시 SHIFT 사용.
+SHIFT키 더블클릭시 계속 누르고 있는 것처럼 계속 추가 글자 사용 가능. 다시 클릭시 해제.
+BACKSPACE, SPACE, ENTER는 생각하는 대로 사용하면 됨.
+
+김지현, 정유정, 김혜진
+jihyunki@konkuk.ac.kr
