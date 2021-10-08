@@ -13,10 +13,9 @@ Most on-screen keyboards are just regular QWERTY layout made for 10-finger use r
 * When you click SHIFT once again, it will be released.
 * Use BACKSPACE, ENTER and SPACE as expected.
 
-Made by students Jihyun Kim, Yoojung Jung, and Hyejin Kim at Konkuk University.
 
 ## License
-MIT License.
+MIT License. Made by students Jihyun Kim, Yoojung Jung, and Hyejin Kim at Konkuk University.
 
 # 한국어
 원형 형태의 윈도우용 화상키보드입니다. 보통의 화상키보드는 열 손가락을 위해 만들어진 일반 키보드를 그대로 화면에 옮겨 놓은 것으로, 키와 키 사이의 이동 거리가 깁니다. 어떻게 하면 이 거리를 줄일 수 있을까 고민하다가 한 점으로부터 같은 거리에 있는 점들의 집합이라는 원의 정의에 착안하여 원형의 화상 키보드를 만들어보았습니다.
