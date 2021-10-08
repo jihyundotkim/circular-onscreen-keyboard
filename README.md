@@ -1,6 +1,8 @@
 # English
 On-screen Keyboard for Windows that's circular, written in [Processing](https://processing.org/). Available for Windows in English only version and English + Korean version.
 
+![circular on-screen keyboard](Onscreen_Keyboard_WithKR/data/bg_eng.png)
+
 Most on-screen keyboards are just regular QWERTY layout made for 10-finger use recreated on screen. The mouse needs to travel a lot from key to key. From the definition of circle, which is a set of points equidistant from a point, I thought I could reduce that travel distance by making a circular on-screen keyboard.
 
 ## How to use:
@@ -19,6 +21,8 @@ MIT License. Made by students Jihyun Kim, Yoojung Jung, and Hyejin Kim at Konkuk
 
 # 한국어
 원형 형태의 윈도우용 화상키보드입니다. 보통의 화상키보드는 열 손가락을 위해 만들어진 일반 키보드를 그대로 화면에 옮겨 놓은 것으로, 키와 키 사이의 이동 거리가 깁니다. 어떻게 하면 이 거리를 줄일 수 있을까 고민하다가 한 점으로부터 같은 거리에 있는 점들의 집합이라는 원의 정의에 착안하여 원형의 화상 키보드를 만들어보았습니다.
+
+![원형 화상키보드](Onscreen_Keyboard_WithKR/data/bg_kor.png)
 
 ## 사용방법
 
