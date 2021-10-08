@@ -27,7 +27,8 @@ MIT License. Made by students Jihyun Kim, Yoojung Jung, and Hyejin Kim at Konkuk
 * 특수문자 및 한글로 이동시 SWITCH키 사용
 * 화상키보드상에 작은 글자로 되어 있는 추가 글자 사용시 SHIFT 사용
 * SHIFT키 더블클릭시 계속 누르고 있는 것처럼 계속 추가 글자 사용 가능, 다시 클릭시 해제
-* BACKSPACE, SPACE, ENTER는 생각하는 대로 사용
+* BACKSPACE, SPACE, ENTER는 원래 용도대로 사용
+* 언어가 반대로 출력될 시 (실물 키보드가 있다면) 한영키를 누르거나 작업표시줄에서 한/영 전환
 
 ## 라이센스
 MIT라이센스로 공개되어 LICENSE 파일만 유지해 주시면 자유롭게 사용, 수정, 배포가 가능합니다.
