@@ -30,6 +30,6 @@ MIT License. Made by students Jihyun Kim, Yoojung Jung, and Hyejin Kim at Konkuk
 * BACKSPACE, SPACE, ENTER는 생각하는 대로 사용
 
 ## 라이센스
-MIT라이센스로 공개되어 LICENSE 파일만 유지해 주시면 자유롭게 사용 및 배포 가능합니다.
+MIT라이센스로 공개되어 LICENSE 파일만 유지해 주시면 자유롭게 사용, 수정, 배포가 가능합니다.
 
 건국대학교에서 김지현, 정유정, 김혜진 학생이 만들었습니다.
